@@ -30,7 +30,7 @@ Live Demo: https://hooktik.vercel.app/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/tiktok-downloader.git
+   git clone https://github.com/SirGhazian/tiktok-downloader.git
 
    ```
 
